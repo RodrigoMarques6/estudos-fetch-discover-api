@@ -12,7 +12,7 @@ function getUsers() {
 
 // O console.error vai trazer o erro para o console, apenas com o uso do fecth nesse caso
 // Na response, adicionamos um ".json" para que a informação venha em formato json, podendo ser lida de qualquer forma.
-// O JSON.stringify()método converte um valor JavaScript em uma string JSON, opcionalmente substituindo valores se uma função substituta for especificada ou opcionalmente incluindo apenas as propriedades especificadas se uma matriz substituta for especificada.
+// O JSON.stringify() é um método converte um valor JavaScript em uma string JSON, opcionalmente substituindo valores se uma função substituta for especificada ou opcionalmente incluindo apenas as propriedades especificadas se uma matriz substituta for especificada.
 
 
 function getUser() {
